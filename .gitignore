@@ -1,0 +1,67 @@
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+
+.venv/
+venv/
+ENV/
+env/
+.python-version
+.uv/
+
+
+.env
+.env.local
+
+
+# data/
+# datasets/
+# models/
+# checkpoints/
+# *.csv
+# *.parquet
+# *.pkl
+# *.h5
+# *.pth
+# *.safetensors
+# *.onnx
+
+
+logs/
+outputs/
+wandb/
+mlruns/
+*.log
+
+
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+
+.DS_Store
+Thumbs.db
